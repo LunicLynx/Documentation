@@ -112,6 +112,7 @@ meadow --FlashOS
 
     ```
     meadow --MonoUpdateRt
+    meadow --MonoDisable
     meadow --FlashEsp
     meadow --MonoEnable
     ```
